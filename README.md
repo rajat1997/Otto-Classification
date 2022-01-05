@@ -1,5 +1,5 @@
 # Otto-Classification
-Otto Classification using supervised learning algortihms
+Otto Classification using supervised learning algorithms
 
 
 Algorithms used:
